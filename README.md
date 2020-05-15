@@ -8,6 +8,10 @@
 5. push_back - įdeda reikšmę į vektoriaus galą
 
 ### spartos analizė
+#### My PC :
+1. CPU - Intel core i7
+2. RAM - 8GB
+3. HDD - 1TB
  
 |            |    10k    |    100k   |   1mln   |   10mln |  100mln |
 |------------|-----------|-----------|----------|---------|---------|
