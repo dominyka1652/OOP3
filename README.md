@@ -1,1 +1,1 @@
-# OOP3
+# std::vector funkciju atkartojimas vector klaseje
