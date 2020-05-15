@@ -1,4 +1,4 @@
-## std::vector funkciju atkartojimas vector klaseje
+## std::vector funkcijų atkartojimas vector klasėje
 
 #### funkciju aprasymas:
 1. emplace - įdeda nurodytą elementą į nurodytą vietą
