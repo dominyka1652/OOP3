@@ -18,6 +18,12 @@
 |std::vector | 0.0037784 | 0.0443535 | 0.386238 | 3.81299 | 31.8613 |
 |class vector| 0.0024196 | 0.0191371 | 0.194752 | 2.83297 | 16.2168 |
 
+### perskistymasi su 100000000
+|            |Perskirtymai|
+|------------|------------|
+|std::vector |     27     |
+|class vector|     27     |
+
 ### spartos analizė su studentų 100K failu
 
 |            | Skaitymas |Skirstymas |
