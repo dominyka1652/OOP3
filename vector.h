@@ -251,13 +251,10 @@ template <class T>
 
     }
 
-    template <typename T>
-    void Vector<T>::clear() {
-        if (avail > 0)
-        {
-            avail = 0;
-        }
-    }
+template <typename T>
+void Vector<T>::clear() {
+    resize(0);
+}
 
     template <typename T>
     void Vector<T>::erase(Vector<T>::const_iterator it) {
