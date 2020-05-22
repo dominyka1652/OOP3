@@ -390,7 +390,8 @@ typename Vector<T>::size_type Vector<T>::max_size() const noexcept {
     double imin = std::numeric_limits<T>::min();
     double imax = std::numeric_limits<T>::max();
     double sum = (imax - imin);
-    return sum / 4;
+    double k = sizeof(T);
+    return sum/k;
 }
 
 template<typename T>
